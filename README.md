@@ -1,2 +1,2 @@
 # little-cube-releases
-Download and use the latest little-cube browser build on chromium.
+Download and use the newest kit on the block - simple native-ui little-cube browser build on .js and .ts running chromium 122.
