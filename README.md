@@ -6,7 +6,6 @@ A modern, privacy-focused desktop browser built with Electron and TypeScript. Do
 ![Electron](https://img.shields.io/badge/Electron-28.0.0-47848F?logo=electron&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-3178C6?logo=typescript&logoColor=white)
 ![Chromium](https://img.shields.io/badge/Chromium-122-4285F4?logo=google-chrome&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey)
 
 ## Features
